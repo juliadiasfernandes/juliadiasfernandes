@@ -3,7 +3,7 @@
 
 Welcome to my profile! Please feel free to look around and contact me if you have any questions!
 ## 🚀 About Me
-👩‍💻 I'm currently a **software developer student** in my last year of college
+👩‍💻 I'm currently a **full stack developer student** in my last year of college
 
 🌱 I am looking for opportunities to apply and grow my knowledge in the development field 
 
