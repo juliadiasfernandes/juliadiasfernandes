@@ -15,6 +15,7 @@ Welcome to my profile! Please feel free to look around and contact me if you hav
   - JavaScript 
   - HTML
   - CSS
+  - React
   - NodeJS
   - MySQL
   - Oracle Apex
